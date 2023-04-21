@@ -1,0 +1,7 @@
+Requirement: 
+1. Báo cáo theo dõi tình hình kinh doanh hiện tại
++ Thống kê các mặt hàng,sản phẩm, doanh thu, chi phí, giá vốn... 
++ Xem xét các chỉ số liên quan đến kinh doanh hiện tại
++ Phân tích hàng khách hàng theo khu vực, doanh th,..
++ Phân khúc hàng hàng, phân tích các yếu tố thời gian
+2. Trình bày những giải phải giúp cải thiện kinh doanh cho business dựa trên dữ liệu hiện có
